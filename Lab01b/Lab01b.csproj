@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="bt2.html" />
     <Content Include="bt3.html" />
+    <Content Include="bt4.html" />
+    <Content Include="bt5.html" />
     <Content Include="contact.html" />
     <Content Include="Global.asax" />
     <Content Include="home.html" />
